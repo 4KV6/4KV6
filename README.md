@@ -1,7 +1,7 @@
-## Hi
+Hi
 
 ## Badges
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="51c22eda-ed2f-4b2c-baee-ee18cfa304f4" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+[CCNA: Introduction to Networks](https://www.credly.com/badges/51c22eda-ed2f-4b2c-baee-ee18cfa304f4/public_url)
 
 <!--
 **4KV6/4KV6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
